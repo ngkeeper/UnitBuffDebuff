@@ -1,0 +1,10 @@
+## Interface: 81000
+## Title: UnitBuffDebuff
+## Version: 0.1.0
+## Notes: Display buff and debuff icons.
+## SavedVariables: CONFIG
+
+#@no-lib-strip@
+#@end-no-lib-strip@
+
+UnitBuffDebuff.lua
